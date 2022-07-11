@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.695e0187.css",
+    "main.js": "/static/js/main.b6f782db.js",
+    "static/media/GoogleMaps.webp": "/static/media/GoogleMaps.ed310180db4b9265f16a.webp",
+    "static/media/knifefork.svg": "/static/media/knifefork.7c4307eadaefb2c870866fdfb8595ca7.svg",
+    "index.html": "/index.html",
+    "main.695e0187.css.map": "/static/css/main.695e0187.css.map",
+    "main.b6f782db.js.map": "/static/js/main.b6f782db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.695e0187.css",
+    "static/js/main.b6f782db.js"
+  ]
+}
